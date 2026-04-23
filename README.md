@@ -28,9 +28,8 @@ Aplicação web desenvolvida em **React** para criação de contagens regressiva
 * CSS
 
 ## 📸 Preview
-<img width="1920" height="1020" alt="Captura de tela 2026-04-23 170738" src="https://github.com/user-attachments/assets/113d48f9-1e72-42fb-89b4-f24a84aa4bb2" />
 <img width="1920" height="1020" alt="Captura de tela 2026-04-23 175525" src="https://github.com/user-attachments/assets/265090b1-c636-419c-9697-5d7e46a30c1b" />
-
+<img width="1920" height="1020" alt="Captura de tela 2026-04-23 170738" src="https://github.com/user-attachments/assets/113d48f9-1e72-42fb-89b4-f24a84aa4bb2" />
 
 ## ▶️ Como rodar o projeto
 
