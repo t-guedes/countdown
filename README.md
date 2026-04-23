@@ -54,7 +54,7 @@ npm run dev
 * Deploy da aplicação
 * Animações na contagem
 
-## 👩‍💻 A
+## 👩‍💻 
 
 Tamires Guedes
 🔗 LinkedIn: https://www.linkedin.com/in/t-guedes/
